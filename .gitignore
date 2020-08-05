@@ -1,0 +1,7 @@
+Binaries/
+Intermediate/
+.vs/
+.DS_Store
+Build/
+Saved/
+*_BuiltData.uasset
